@@ -1,8 +1,8 @@
 class Getdeck < Formula
   desc "Reproducible Kubernetes environments for development and testing"
   homepage "https://getdeck.dev/"
-  url "https://github.com/Getdeck/getdeck/releases/download/0.10.0/deck-0.10.0-darwin-universal.zip"
-  sha256 "03f7d23f6794c9a3da993145ff19937a33cfebd5ad88d5e89ca34a95a2c20397"
+  url "https://github.com/Getdeck/getdeck/releases/download/0.10.1/deck-0.10.1-darwin-universal.zip"
+  sha256 "c0a1368a86433eeef1b754d799744d22862a6f7d8975ca1f5c251291b74ce8ea"
   license "Apache-2.0"
 
   def install
